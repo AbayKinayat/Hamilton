@@ -1,0 +1,22 @@
+
+
+@font-face {
+  font-family: 'PF Agora Sans Pro Light';
+  src: local('PF Agora Sans Pro'), local('PF-Agora-Sans-Pro-Light'),
+      url('../fonts/PFAgoraSansPro/PFAgoraSansPro-Light.woff2') format('woff2'),
+      url('../fonts/PFAgoraSansPro/PFAgoraSansPro-Light.woff') format('woff'),
+      url('../fonts/PFAgoraSansPro/PFAgoraSansPro-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PF Agora Sans Pro';
+      
+  src:    url('https://nomail.com.ua/files/eot/7cb61a8a1a206dfa7f867d9af496d491.eot?#iefix') format('embedded-opentype'),
+          url('https://nomail.com.ua/files/woff/7cb61a8a1a206dfa7f867d9af496d491.woff') format('woff'),
+          url('https://nomail.com.ua/files/woff2/7cb61a8a1a206dfa7f867d9af496d491.woff2') format('woff2');
+          font-weight: normal;
+          font-style: normal;
+}
+  
