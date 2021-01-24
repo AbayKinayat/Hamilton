@@ -1717,3 +1717,15 @@ input[type="checkbox"]:checked + .section-eight__checkbox-text::before
       }
     } 
   
+    @media screen and (max-height: 645px) {
+      .footer .logo {
+        display: none;
+      }
+
+      .footer__socials-container {
+        margin-top: 0;
+      }
+      .footer__rights {
+        margin-top: 0;
+      }
+    }
